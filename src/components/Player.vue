@@ -85,6 +85,22 @@ const listHeight = computed(() => {
 
 // 初始化播放器
 onMounted(() => {
+  // try {
+  //   getlogin().then((res) => {
+  //     console.log("login加载完成");
+  //     console.log(res);
+  //     });
+  //   } catch (err) {
+  //     console.error(err);
+  //     ElMessage({
+  //       message: "login加载失败",
+  //       grouping: true,
+  //       icon: h(PlayWrong, {
+  //         theme: "filled",
+  //         fill: "#efefef",
+  //       }),
+  //     });
+  //   }
   nextTick(() => {
     try {
       getPlayerList(props.songServer, props.songType, props.songId).then((res) => {

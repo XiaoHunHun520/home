@@ -73,3 +73,9 @@ export const getOtherWeather = async () => {
   const res = await fetch("https://api.oioweb.cn/api/weather/GetWeather");
   return await res.json();
 };
+
+
+export const SiteFomation = async () => {
+  const res = await fetch("http://127.0.0.1:5000/v1/tool/douyin");
+  return await res.json();
+};

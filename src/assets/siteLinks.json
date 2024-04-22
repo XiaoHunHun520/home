@@ -1,42 +1,22 @@
 [
   {
-    "icon": "Blog",
-    "name": "交流",
-    "link": "https://luofengcheng.com/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://luofengcheng.com/"
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://luofc.com/"
   },
   {
     "icon": "Search",
     "name": "搜索",
-    "link": "https://luofengcheng.com/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://luofengcheng.com/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://luofengcheng.com/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://luofengcheng.com/"
+    "link": "https://search.luofc.com/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://luofengcheng.com/"
+    "link": "https://status.luofc.com/"
   },
   {
-    "icon": "Adn",
-    "name": "站点Adn",
-    "link": "https://luofengcheng.com/"
+    "icon": "Hubspot",
+    "name": "开发中",
+    "link": "https://luofc.com/"
   }
 ]
